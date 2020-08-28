@@ -1,5 +1,3 @@
-# Pedro Ernesto Tramontina
-
 ## SUMMARY
 
 I am a software engineer with knowledge of both backend and frontend software development. Familiar with several programming languages and frameworks, I have been working most of the time with PHP and Javascript, using Laravel and Vue JS frameworks. I am organized and highly committed with product quality, and always keep myself updated with the most recent technologies. 
@@ -46,13 +44,13 @@ I am a software engineer with knowledge of both backend and frontend software de
 #### Computer instructor
 *Activities:* Teach how to use Windows, MS Office and Internet.
  
-# COURSES AND CERTIFICATIONS
+## COURSES AND CERTIFICATIONS
 
 *	English course. CCAA, Guaporé. 2008 - 2012.
 *	Data Cabling System e Fluke Networks MCT. Fontoura Education, Porto Alegre. 2015. 
 *	Information Security ISO 27002 Foundation. Andrade Soto Education, Lajeado. 2016.
 
-# LANGUAGES
+## LANGUAGES
 
 *	Portuguese: fluent, native language.
 *	English: fluent.
