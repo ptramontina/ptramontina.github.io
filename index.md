@@ -1,6 +1,6 @@
 ## SUMMARY
 
-I am a software engineer with knowledge of both backend and frontend software development. Familiar with several programming languages and frameworks, I have been working most of the time with PHP and Javascript, using Laravel and Vue JS frameworks. I am organized and highly committed with product quality, and always keep myself updated with the most recent technologies. 
+I am a brazilian software engineer with knowledge of both backend and frontend software development. Familiar with several programming languages and frameworks, I have been working most of the time with PHP and Javascript, using Laravel and Vue JS frameworks. I am organized and highly committed with product quality, and always keep myself updated with the most recent technologies. 
 
 ## EDUCATION
 
@@ -22,7 +22,7 @@ I am a software engineer with knowledge of both backend and frontend software de
 ###	STW Soluções em Automação *[Nov 2016 – Present]*
 
 #### Software engineer
-*Activities:* Full-stack software development, creating and maintaining systems to control, manage and analyse industries. Integration with factory PLCs (Programmable Logic Controller) and robots, to send and collect data. Integration with different applications to provide information about the factory.
+*Activities:* Full-stack software development, creating and maintaining systems to control, manage and analyse industries. Integration with PLCs (Programmable Logic Controller) and robots, to send and collect data. Build IoT solutions, to connect all types of devices to web applications. Integration between different applications.
 
 ###	Unimed Vales do Taquari e Rio Pardo *[Aug 2014 – Nov 2016]*
 
