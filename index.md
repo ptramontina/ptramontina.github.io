@@ -1,6 +1,6 @@
 ## SUMMARY
 
-I am a brazilian software engineer with knowledge of both backend and frontend software development. Familiar with several programming languages and frameworks, I have been working most of the time with PHP and Javascript, using Laravel and Vue JS frameworks. I am organized and highly committed with product quality, and always keep myself updated with the most recent technologies. 
+I am a software engineer with knowledge of both backend and frontend software development. Familiar with several programming languages and frameworks, I have been working in projects using Javascript and PHP, mostly with NodeJS, VueJS, React and Laravel. I am organized and highly committed with product quality, and always keep myself updated with the most recent technologies.
 
 ## EDUCATION
 
