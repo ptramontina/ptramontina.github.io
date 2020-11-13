@@ -11,8 +11,8 @@ I am a software engineer with knowledge of both backend and frontend software de
 ## SKILLS
 
 *	Full-stack software development 
-    * PHP, Javascript, Java
-    * Laravel, VueJS, NodeJS, Angular, React
+    * Javascript, PHP, Java
+    * VueJS, NodeJS, React, Laravel
 *	SQL and NoSQL databases
     *	MySQL, SQL Server, MongoDB, Redis
 *	Linux administration and configuration
